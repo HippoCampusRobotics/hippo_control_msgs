@@ -46,6 +46,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/QuaternionControlDebug.msg"
   "msg/RatesDebug.msg"
   "msg/RatesTarget.msg"
+  "msg/RollTarget.msg"
   "msg/ThrusterForces.msg"
   "msg/VelocityControlTarget.msg"
   DEPENDENCIES builtin_interfaces std_msgs geometry_msgs
