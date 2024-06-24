@@ -41,6 +41,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/AttitudeTarget.msg"
   "msg/ControlTarget.msg"
   "msg/FailureControlDebug.msg"
+  "msg/PIDDebug.msg"
   "msg/FailureControlMode.msg"
   "msg/FailureControlModeStamped.msg"
   "msg/QuaternionControlDebug.msg"
