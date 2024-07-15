@@ -2,8 +2,8 @@
 Changelog for package hippo_control_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.1 (2024-07-15)
+------------------
 * added generic pid debug msg
 * added yawtarget required by our current FaV setup
 * added msg definition
